@@ -1,0 +1,7 @@
+numpy==1.21.6
+pyserial==3.5
+PySide2==5.15.2.1
+robodk==5.5.4
+shiboken2==5.15.2.1
+wincertstore==0.2
+wlkata-mirobot-python==0.1.13
